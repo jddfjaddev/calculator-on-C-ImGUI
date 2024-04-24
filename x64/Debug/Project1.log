@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\admin\OneDrive\Рабочий стол\kalc\Project1\Project1\main.cpp(62,5): error C3861: CreateRenderTarget: идентификатор не найден
+C:\Users\admin\OneDrive\Рабочий стол\kalc\Project1\Project1\main.cpp(76,5): error C3861: CleanupRenderTarget: идентификатор не найден
